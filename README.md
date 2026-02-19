@@ -2,7 +2,9 @@
 
 ### 🎮 **Project: Gamer**
 
+
 *Interactive gaming video showcase platform*
+
 
 ---
 ---
@@ -11,7 +13,7 @@
 
 #### 1. **Title Slide**
 
-* **Project name**: Gamer
+* **Project name**: Gamers
 * **Your name**: Abel Sifuna
 * **Tagline**: “Bringing cinematic gaming moments to the web”
 * GitHub: [Cfuna22/Gamer](https://github.com/Cfuna22/Gamer)
@@ -104,3 +106,5 @@
   * Feature requests?
 
 ---
+
+have a nice one
